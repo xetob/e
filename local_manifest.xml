@@ -4,7 +4,7 @@
         path="device/xiaomi/fire"
         name="xetob/android_device_xiaomi_fire"
         remote="github"
-        revision="main" />
+        revision="Lineage-22" />
 
     <project
         path="kernel/xiaomi/fire"
