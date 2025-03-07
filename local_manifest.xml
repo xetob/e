@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project
+        path="device/xiaomi/fire"
+        name="xetob/android_device_xiaomi_fire"
+        remote="github"
+        revision="main" />
+
+    <project
+        path="kernel/xiaomi/fire"
+        name="mt6768-dev/android_kernel_xiaomi_fire"
+        remote="github"
+        revision="main" />
+</manifest>
