@@ -16,5 +16,5 @@
         path="kernel/xiaomi/fire"
         name="mt6768-dev/android_kernel_xiaomi_fire"
         remote="github"
-        revision="Lineage-22.1" />
+        revision="lineage-22.1" />
 </manifest>
