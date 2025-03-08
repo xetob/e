@@ -7,6 +7,12 @@
         revision="Lineage-22" />
 
     <project
+        path="vendor/xiaomi/fire"
+        name="redmi-fire-devs/proprietary_vendor_xiaomi_fire"
+        remote="github"
+        revision="Lineage-21" />
+    
+    <project
         path="kernel/xiaomi/fire"
         name="mt6768-dev/android_kernel_xiaomi_fire"
         remote="github"
